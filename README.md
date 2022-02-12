@@ -18,7 +18,7 @@ In order to get the app running yourself, you need to:
 
 Libraries used in the whole application are:
 - [Kotlin](https://developer.android.com/kotlin) - Kotlin is a programming language that can run on JVM. Google has announced Kotlin as one of its officially supported programming languages in Android Studio; and the Android community is migrating at a pace from Java to Kotlin.
-- - [LifeCycle](https://developer.android.com/jetpack/androidx/releases/lifecycle)-Lifecycle-aware components perform actions in response to a change in the lifecycle status of another component, such as activities and fragments. These components help you produce better-organized, and often lighter-weight code, that is easier to maintain. 
+- [LifeCycle](https://developer.android.com/jetpack/androidx/releases/lifecycle)-Lifecycle-aware components perform actions in response to a change in the lifecycle status of another component, such as activities and fragments. These components help you produce better-organized, and often lighter-weight code, that is easier to maintain. 
 
 
 ## Support
