@@ -4,7 +4,7 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
-class mainViewModel : ViewModel() {
+class MainViewModel : ViewModel() {
 
     //creating mutableLiveData and LiveData
     private val _result = MutableLiveData<Int> (0)
